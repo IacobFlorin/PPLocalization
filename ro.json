@@ -1,7 +1,7 @@
 "info" : {
 		"id": "ro",
 		"english_name": "Romanian",
-		"localised_name": "Romana"
+		"localised_name": "Română"
 	},
 	"translations": {
 		
@@ -233,11 +233,11 @@
 		//info terminals
 		//(got to collect the strings from each scene)
 		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._":
-			"",
+			"__Stațiile de Scântei__ pot fi mereu \"scânteiate\" prin micșorarea ecranului si apăsarea iconiței scânteie._",
 		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
-			"",
+			"Marionetele astea lucrătoare pot fi niste __Unitați de Rezervă__ excelente.\n\Doar _Asamblează_ una si las-o deoparte; Vei _Scânteia_ automat intr-un accident de muncă. ",
 		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __Aurium Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
-			"",
+			"Jurnalul #43547Ș \"Am distrus ultima rachetă de salvare, si am imprastiat pisele de-a lungul Primoidului, in incercarea de a preveni __Calamitatea Aurium__ de a se raspandi dincolo de aceasta lume...\n\nLocatiile sunt marcate pe aceasta mapa, dar acestea sunt foarte bine-pazite - _Nici MACAR sa nu incerci!_\"",
 
 		//scene descriptions and goals
 
