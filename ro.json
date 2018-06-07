@@ -234,9 +234,9 @@
 		//info terminals
 		//(got to collect the strings from each scene)
 		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._":
-			"",
+			"__Stațiile de Scântei__ pot fi mereu \"scanteiate\" prin micșorarea ecranului si apăsând iconița scânteie._,
 		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
-			"",
+			"Aceste marionete lucratoare vor fi niste __Unitati de Rezerva__ excelente.\n\nDoar _Asambleaza_ una si las-o deoparte; vei _Scanteia_ automat in cazul unor accidente de munca.",
 		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __Aurium Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
 			"",
 
